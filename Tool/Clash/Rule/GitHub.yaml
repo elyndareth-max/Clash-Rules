@@ -1,0 +1,15 @@
+payload:
+  # GitHub 主站
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+
+  # GitHub 资源
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubstatus.com
+
+  # GitHub API
+  - DOMAIN-SUFFIX,github.dev
+
+  # GitHub Container Registry
+  - DOMAIN-SUFFIX,ghcr.io
