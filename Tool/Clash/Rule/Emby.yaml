@@ -1,6 +1,13 @@
 payload:
   # 用户自定义 Emby 服务器
-  - DOMAIN-SUFFIX,p3mc4.mobaiemby.site
+  - DOMAIN-SUFFIX,mobaiemby.site
+  - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,onatoshi.114514.quest
+  - DOMAIN-SUFFIX,ciallo.party
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,yuanshen.help
+
+
 
   # Emby 官方域名
   - DOMAIN-SUFFIX,emby.media
