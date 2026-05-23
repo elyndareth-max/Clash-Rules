@@ -1,15 +1,23 @@
 payload:
-  # GitHub 主站
+  # ========== GitHub 主站 ==========
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
-
-  # GitHub 资源
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN-SUFFIX,githubstatus.com
-
-  # GitHub API
   - DOMAIN-SUFFIX,github.dev
 
-  # GitHub Container Registry
+  # ========== GitHub 资源 / CDN ==========
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+
+  # ========== GitHub 状态 / API ==========
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,copilot.github.com
+
+  # ========== GitHub Container Registry ==========
   - DOMAIN-SUFFIX,ghcr.io
+
+  # ========== GitHub Packages / npm ==========
+  - DOMAIN-SUFFIX,npm.pkg.github.com
+
+  # ========== GitHub Pages 专用域名 ==========
+  - DOMAIN-SUFFIX,githubpreview.dev
+  - DOMAIN-SUFFIX,codesandbox.io
