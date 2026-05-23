@@ -1,0 +1,12 @@
+payload:
+  # 用户自定义 Emby 服务器
+  - DOMAIN-SUFFIX,p3mc4.mobaiemby.site
+
+  # Emby 官方域名
+  - DOMAIN-SUFFIX,emby.media
+  - DOMAIN-SUFFIX,emby.link
+  - DOMAIN-SUFFIX,emby.direct
+  - DOMAIN-SUFFIX,mb3admin.com
+
+  # Emby CDN / 搜索
+  - DOMAIN-SUFFIX,embyusercontent.com
