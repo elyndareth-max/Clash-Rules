@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,bangumi.ca
   - DOMAIN-SUFFIX,yuanshen.help
-
+  - DOMAIN-SUFFIX,embys.bbroot.com
 
 
   # Emby 官方域名
